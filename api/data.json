@@ -1,0 +1,10 @@
+[{"drop_id":1,"collection_name":"GMC","max_claimable":64,"current_claimed":35},
+{"drop_id":2,"collection_name":"Lexus","max_claimable":81,"current_claimed":34},
+{"drop_id":3,"collection_name":"GMC","max_claimable":61,"current_claimed":20},
+{"drop_id":4,"collection_name":"Ford","max_claimable":98,"current_claimed":81},
+{"drop_id":5,"collection_name":"Mitsubishi","max_claimable":18,"current_claimed":28},
+{"drop_id":6,"collection_name":"Mazda","max_claimable":74,"current_claimed":53},
+{"drop_id":7,"collection_name":"Ford","max_claimable":81,"current_claimed":88},
+{"drop_id":8,"collection_name":"Chrysler","max_claimable":63,"current_claimed":30},
+{"drop_id":9,"collection_name":"GMC","max_claimable":39,"current_claimed":55},
+{"drop_id":10,"collection_name":"Mercedes-Benz","max_claimable":58,"current_claimed":34}]
